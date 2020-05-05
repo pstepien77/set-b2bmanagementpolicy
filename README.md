@@ -1,7 +1,7 @@
 # set-b2bmanagementpolicy
  Azure - Manage B2B Management Policy settings with PowerShell
 
-Helps admin to update the B2BManagementPolicy for Allow/Block domain list for inviting external Users.
+Helps admin to update the Azure B2BManagementPolicy for Allow/Block domain list for inviting external Users.
 Powershell must be connected to target tenant before running this script (using Connect-AzureAD cmdlet).
 
 Operations available:
